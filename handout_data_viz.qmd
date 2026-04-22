@@ -3,6 +3,7 @@ format:
   html:
     toc: false
   pdf:
+    pdf-standard: ua-2
     keeptex: false
     papersize: letter
     geometry:
@@ -27,7 +28,7 @@ nocite: '@*'
 
 # the csl can be downloaded into the repository or direct linked to the raw file on github
 # this style chosen as relatively general and has indents for easier reading on handouts.
-csl: https://raw.githubusercontent.com/citation-style-language/styles/refs/heads/master/oxford-university-press-scimed-author-date.csl
+csl: https://raw.githubusercontent.com/citation-style-language/styles/refs/heads/master/oxford-journals-scimed-author-date.csl
 ---
 # Checklist for data-driven visualizations
 
