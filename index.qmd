@@ -16,7 +16,8 @@ format:
     smaller: true
     center-title-slide: false
     hash: true
-
+    revealjs-plugins:
+      - a11y
 
 editor: source
 ---
