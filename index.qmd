@@ -4,8 +4,10 @@ subtitle: "University of Oklahoma Libraries"
 # author: "CM Curry, B Tweedy, A Schilling"
 format: 
   revealjs:
-    logo: logo.png
-    # footer: "STEM Services"
+        # footer: "STEM Services"
+    logo: 
+        path: logo.png
+        alt: "The University of Oklahoma Logo in Red"
     slide-number: true
     #show-notes: separate-page #https://revealjs.com/pdf-export/
     preview-links: true
@@ -14,6 +16,8 @@ format:
     smaller: true
     center-title-slide: false
     hash: true
+
+
 editor: source
 ---
 
