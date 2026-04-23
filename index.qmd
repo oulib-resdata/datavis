@@ -1,5 +1,7 @@
 ---
 title: "Survival Skills: Concepts of Data-Driven Visualization"
+# title renders as H1
+# Whole document renders as one html on the back end??
 subtitle: "University of Oklahoma Libraries"
 # author: "CM Curry, B Tweedy, A Schilling"
 format: 
@@ -11,7 +13,6 @@ format:
     slide-number: true
     #show-notes: separate-page #https://revealjs.com/pdf-export/
     preview-links: true
-    slide-tone: true
     controls: true
     smaller: true
     center-title-slide: false
@@ -23,7 +24,7 @@ editor: source
 ---
 
 
-# Getting started
+## Getting started
 
 ## What we will discuss today
 
@@ -125,7 +126,7 @@ Telling a story is often to supplement or explain a statistical analysis or desc
 :::
 
 
-# Goals: What you need the graph to be
+## Goals: What you need the graph to be
 
 ## Trustworthy, reasonable, faithful, integrity^[Kirk, 2019]
 
@@ -196,7 +197,7 @@ ggplot(data = subset_penguins,
 ![](images/highlight_cat.png)
 :::
 
-# Perception: Why graphs work
+## Perception: Why graphs work
 
 
 ## But first, your audience/viewer
@@ -390,7 +391,7 @@ ggplot(data = length_data,
 :::
 
 
-# Design: **How** to communicate your message
+## Design: **How** to communicate your message
 
 ## Consider location of audience
 - Paper, screen, projected
@@ -905,7 +906,7 @@ tiny_plot +
 
 
 
-# Ending activity
+## Ending activity
 
 ## Think about the original graph
 
