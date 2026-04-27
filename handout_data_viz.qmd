@@ -1,16 +1,20 @@
 ---
+title: Checklist for data-driven visualizations
+lang: en
 format:
-  html:
+  docx:
     toc: false
-  pdf:
-    pdf-standard: ua-2
-    keeptex: false
-    papersize: letter
-    geometry:
-      - top=20mm
-      - left=20mm
-      - right=20mm
-      - bottom=20mm
+  # html:
+  #   toc: false
+  # pdf:
+  #   pdf-standard: ua-2
+  #   keeptex: false
+  #   papersize: letter
+  #   geometry:
+  #     - top=20mm
+  #     - left=20mm
+  #     - right=20mm
+  #     - bottom=20mm
 editor: source
 
 # These three entries allow two separate bibliographies.
@@ -30,9 +34,7 @@ nocite: '@*'
 # this style chosen as relatively general and has indents for easier reading on handouts.
 csl: https://raw.githubusercontent.com/citation-style-language/styles/refs/heads/master/oxford-journals-scimed-author-date.csl
 ---
-# Checklist for data-driven visualizations
-
-University of Oklahoma Libraries
+*from* University of Oklahoma Libraries
 
 ## What: goals
 
