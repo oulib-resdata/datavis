@@ -170,13 +170,13 @@ ggplot(data = subset_penguins,
 
 
 
-## Where appropriate, follow examples
+## Check examples
 
 - What's the common way to present this in your discipline?
   - Searching in captions in some databases.
 - Check your journal style guide if submitting manuscript
 
-::: {.absolute top="35%" left="4%" width="40%"}
+::: {.absolute top="45%" left="4%" width="40%"}
 
 ![](images/cat_struggles_with_academic_book.jpg)
 
@@ -220,7 +220,7 @@ ggplot(data = subset_penguins,
 - Visual patterns as an augment to working memory limitations of humans^[Few, 2021, *Now You See It: an introduction to visual data sensemaking*.  El Dorado Hills: Analytics Press. page 52]
 
 
-::: {.absolute top="35%" left="4%" width="100%"}
+::: {.absolute top="35%" left="4%" width="80%" height = "60%"}
 ```{r}
 #| attr-output: "style='font-size: 1em'"
 # learning how to position: https://meghan.rbind.io/blog/2022-07-12-making-slides-in-quarto-with-revealjs/#absolute-position
@@ -562,7 +562,7 @@ graph3
   - This means plot the variable of interest
   - Differences, not before and after
 
-::: {.absolute top="35%" left="-5%" width="50%"}
+::: {.absolute top="50%" left="-5%" width="50%"}
 ```{r}
 library(dplyr)
 library(ggplot2)
@@ -588,7 +588,7 @@ ggplot(data = summary_by_year,
 
 :::
 
-::: {.absolute top="35%" left="45%" width="50%"}
+::: {.absolute top="50%" left="45%" width="50%"}
 ```{r}
 
 summary_penguin_diffs <- summary_by_year %>%
